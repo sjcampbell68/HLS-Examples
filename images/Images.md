@@ -1,2 +1,3 @@
 # Images folder
-This folder contains the images for the markup files
+This folder contains the markup file images
+
