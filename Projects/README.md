@@ -2,7 +2,7 @@
 # <a name="projects"></a> Projects
 
 ## Project Types:
-* [link](#projects_streaming) Streaming
+* [Streaming](#projects_streaming)
 
 ## <a name="projects_streaming"></a> Streaming
 * Sample based IP and testbench. 1 Function call per sample
